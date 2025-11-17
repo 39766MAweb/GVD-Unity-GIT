@@ -14,3 +14,7 @@ Bal = Hondenkoekje
 Target = Puppies
 Score = Puppies fed
 Doel = Hoogste score aan het einde van de timer
+
+Stijl en sfeer:
+Cartoony, Grappig en schattig
+

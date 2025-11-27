@@ -19,3 +19,9 @@ Code:
 
 (De bal stuiterd tegen de verschillende vijanden, tijdelijke sprites. De console print "hit" als collisions wordt gedectect)
 ![ForcesandCollisionsgif](https://github.com/user-attachments/assets/8f6c113a-237f-4083-9812-6884478d22bc)
+
+
+Code:
+
+
+<img width="825" height="685" alt="image" src="https://github.com/user-attachments/assets/6bc9b092-bc26-4b78-8e56-df204245fdae" />

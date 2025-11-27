@@ -17,5 +17,5 @@ Code:
 2.1 Forces & Collisions
 
 
-(De bal stuiterd tegen de verschillende vijanden, tijdelijke sprites)
+(De bal stuiterd tegen de verschillende vijanden, tijdelijke sprites. De console print "hit" als collisions wordt gedectect)
 ![ForcesandCollisionsgif](https://github.com/user-attachments/assets/8f6c113a-237f-4083-9812-6884478d22bc)

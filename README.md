@@ -23,5 +23,7 @@ Code:
 
 Code:
 
-
+TargetCollision.cs
 <img width="825" height="685" alt="image" src="https://github.com/user-attachments/assets/6bc9b092-bc26-4b78-8e56-df204245fdae" />
+ShootBulletEntity.cs
+<img width="1337" height="1153" alt="image" src="https://github.com/user-attachments/assets/bf0b2d86-edb1-4a9b-8c89-71bb39f55b4f" />

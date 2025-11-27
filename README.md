@@ -12,3 +12,10 @@ Code:
 
 
 ![ArraysGifLes-ezgif com-optimize](https://github.com/user-attachments/assets/2b0c1f56-0312-4b76-b76c-17a13c826d19)
+
+
+2.1 Forces & Collisions
+
+
+(De bal stuiterd tegen de verschillende vijanden, tijdelijke sprites)
+![ForcesandCollisionsgif](https://github.com/user-attachments/assets/8f6c113a-237f-4083-9812-6884478d22bc)

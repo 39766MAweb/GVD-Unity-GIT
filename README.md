@@ -27,3 +27,10 @@ TargetCollision.cs
 <img width="825" height="685" alt="image" src="https://github.com/user-attachments/assets/6bc9b092-bc26-4b78-8e56-df204245fdae" />
 ShootBulletEntity.cs
 <img width="1337" height="1153" alt="image" src="https://github.com/user-attachments/assets/bf0b2d86-edb1-4a9b-8c89-71bb39f55b4f" />
+
+
+2.2 Peggle Mikken
+
+
+Een line wordt getekent die aangeeft hoe hard de bullet schiet
+![DrawLineGIF](https://github.com/user-attachments/assets/e7f34c13-1bb7-4e32-9133-edc0224d6ed4)

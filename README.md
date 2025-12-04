@@ -34,3 +34,10 @@ ShootBulletEntity.cs
 
 Een line wordt getekent die aangeeft hoe hard de bullet schiet
 ![DrawLineGIF](https://github.com/user-attachments/assets/e7f34c13-1bb7-4e32-9133-edc0224d6ed4)
+
+
+Code:
+<img width="1196" height="1090" alt="image" src="https://github.com/user-attachments/assets/ec4ba825-fd3b-42ec-9af9-3f026617daa2" />
+<img width="1367" height="1099" alt="image" src="https://github.com/user-attachments/assets/c00bdb8f-ae93-443b-82de-8709c2cecc33" />
+
+

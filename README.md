@@ -41,3 +41,7 @@ Code:
 <img width="1367" height="1099" alt="image" src="https://github.com/user-attachments/assets/c00bdb8f-ae93-443b-82de-8709c2cecc33" />
 
 
+3.1
+
+Score Systeem:
+![ScoreManagerExample](https://github.com/user-attachments/assets/d40b00e0-3313-408b-9879-0aa76c8d915b)

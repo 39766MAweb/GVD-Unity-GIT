@@ -45,3 +45,7 @@ Code:
 
 Score Systeem:
 ![ScoreManagerExample](https://github.com/user-attachments/assets/d40b00e0-3313-408b-9879-0aa76c8d915b)
+
+
+ScoreManager.cs & TargetBehaviour.cs
+<img width="1508" height="763" alt="image" src="https://github.com/user-attachments/assets/54fe3c40-cb22-4a0f-a2b0-a718cf3ff00f" />

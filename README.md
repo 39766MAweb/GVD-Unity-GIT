@@ -1,4 +1,4 @@
-# GVD-Unity-GIT
+![ComboSysteem](https://github.com/user-attachments/assets/3b75c223-4106-424b-a73d-9963cc275646)# GVD-Unity-GIT
 1.2 Arrays
 
 
@@ -32,6 +32,7 @@ ShootBulletEntity.cs
 2.2 Peggle Mikken
 
 
+
 Een line wordt getekent die aangeeft hoe hard de bullet schiet
 ![DrawLineGIF](https://github.com/user-attachments/assets/e7f34c13-1bb7-4e32-9133-edc0224d6ed4)
 
@@ -49,3 +50,14 @@ Score Systeem:
 
 ScoreManager.cs & TargetBehaviour.cs
 <img width="1508" height="763" alt="image" src="https://github.com/user-attachments/assets/54fe3c40-cb22-4a0f-a2b0-a718cf3ff00f" />
+
+
+3.2
+
+Combo Systeem & Bumpers
+![ComboSysteem](https://github.com/user-attachments/assets/658a56f8-4abf-47df-b679-71b52bb1165e)
+
+
+Code:
+<img width="1692" height="901" alt="image" src="https://github.com/user-attachments/assets/10c11546-6eea-4842-b9f2-c3eb1902c0ac" />
+
